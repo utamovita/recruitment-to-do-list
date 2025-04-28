@@ -1,5 +1,4 @@
 export function PageSpinner() {
-  // TODO: Add Portal
   return (
       <div className="text-center w-full h-full flex items-center justify-center fixed">
         <Spinner />
